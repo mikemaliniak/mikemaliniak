@@ -2,7 +2,7 @@
 - 👀 I’m interested in NodeJS, React + Redux, Mongo...MERN really
 - 🌱 I’m currently learning ...React Native
 - 💞️ I’m looking to collaborate on ...MERN or Native or both
-- 📫 How to reach me: email mike@maliniak.io
+- 📫 How to reach me: email michael.maliniak@gmail.com
 
 <!---
 mikemaliniak/mikemaliniak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
